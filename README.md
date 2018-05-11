@@ -4,9 +4,8 @@ Zawgyi font for magisk.
 
 Instructions
 ===
-Method 1
----
-- Download as zip.
+
+- Download the latest release zip file from [here](https://github.com/devlyx/magisk-zawgyi/releases).
 - Add module to Magisk Manager.
 - Reboot
 
