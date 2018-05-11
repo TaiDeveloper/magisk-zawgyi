@@ -1,0 +1,7 @@
+id=magisk-zawgyi
+name=Magisk Zawgyi
+version=v1
+versionCode=1
+author=devlyx
+description=Zawgyi Systemless Font.
+minMagisk=1500
